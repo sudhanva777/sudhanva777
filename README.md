@@ -36,7 +36,7 @@ Everything here is plain Markdown + hosted SVG widgets — no GitHub Action requ
 ```python
 class BackendEngineer:
     def __init__(self):
-        self.name = "YOUR NAME"
+        self.name = "Sudhanva Patil"
         self.title = "Python Backend Engineer"
         self.also_known_for = ("API Developer", "Software Engineer")
         self.core_stack = ["Python", "FastAPI", "PostgreSQL", "Docker"]
