@@ -1,9 +1,9 @@
 <!--
 PERSONALIZE BEFORE YOU PUSH — find & replace:
-  YOUR NAME              → your name (appears in the hero banner + whoami block)
-  YOUR_USERNAME           → your GitHub username (used in every stats/badge URL below)
-  YOUR_LINKEDIN            → your LinkedIn handle
-  YOUR_EMAIL               → your email address
+  YOUR NAME              → Sudhanva Patil (appears in the hero banner + whoami block)
+  YOUR_USERNAME           → Sudhanva777 username (used in every stats/badge URL below)
+  YOUR_LINKEDIN            → Sudhanva Patil handle
+  YOUR_EMAIL               → sudhanvapatil2004@gmail.com address
   YOUR_PORTFOLIO_URL       → your site (or delete that one badge)
   [Project ...] blocks      → swap in your 3 real projects
   Any other [bracketed] text → fill in or delete
