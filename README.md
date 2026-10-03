@@ -1,4 +1,4 @@
-<
+<!--
 PERSONALIZE BEFORE YOU PUSH — find & replace:
   YOUR NAME              → Sudhanva Patil (appears in the hero banner + whoami block)
   YOUR_USERNAME           → Sudhanva777 username (used in every stats/badge URL below)
@@ -8,7 +8,7 @@ PERSONALIZE BEFORE YOU PUSH — find & replace:
   [Project ...] blocks      → swap in your 3 real projects
   Any other [bracketed] text → fill in or delete
 Everything here is plain Markdown + hosted SVG widgets — no GitHub Action required.
->
+-->
 
 <div align="center">
 
